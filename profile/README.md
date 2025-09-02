@@ -10,7 +10,7 @@
 #### Classes: 01-SEP-2025 07:15-08:45AM IST
 #### Duration: 120 Hours, 4 Months, MON-FRI
 
-#### Content Index: https://docs.google.com/document/d/16yf9kshP9E_-LnGRaB299U-H_kRsJNn8AkCQYujAb44/edit?usp=sharing
+#### Content Index: https://docs.google.com/document/d/1q0qBR75hu5cgi6CfkJkJpHPGq9HXVAfloUeF2WrJmdg/edit?usp=sharing
 
 #### Videos Link: https://www.youtube.com/playlist?list=PL1jY4BuFJn1fglENjNyvyGkJz3fCcHNR-
 ### AWS Account Creation
